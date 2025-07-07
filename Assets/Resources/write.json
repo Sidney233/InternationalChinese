@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "chinese_character": "七",
+        "pinyin": "qī",
+        "guide": "./unity_assets/video/4.mp4",
+        "definition": "seven / 7"
+    },
+    {
+        "id": 2,
+        "chinese_character": "万",
+        "pinyin": "wàn",
+        "guide": "./unity_assets/video/8.mp4",
+        "definition": "Wan (surname) / ten thousand / a great number"
+    },
+    {
+        "id":3,
+        "chinese_character": "与",
+        "pinyin":"yǔ",
+        "guide": "./unity_assets/video/15.mp4",
+        "definition": "(negative prefix)"
+    }
+]

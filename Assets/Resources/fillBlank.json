@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "question": "我____马尔科，你呢？",
+        "pinyin": "wǒ ____ mǎ ěr kē , nǐ ne ?",
+        "English": "My name is Marco, what about you?",
+        "answer": "叫",
+        "tts_path": "./unity_assets/tts/blank/1.wav"
+    },
+    {
+        "id": 2,
+        "question": "你叫什么____？",
+        "pinyin": "nǐ jiào shén me ____ ?",
+        "English": "What is your name?",
+        "answer": "名字",
+        "tts_path": "./unity_assets/tts/blank/2.wav"
+    },
+    {
+        "id":3,
+        "question": "我叫马尔科，你____？", 
+        "pinyin": "wǒ jiào mǎ ěr kē , nǐ ____ ?",
+        "English": "My name is Marco, what about you?",
+        "answer": "呢",
+        "tts_path": "./unity_assets/tts/blank/3.wav"
+    }
+]

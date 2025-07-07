@@ -1,0 +1,16 @@
+[
+    {"word": "中文", "pronunciation": "zhōngwén", "meaning": "Chinese language", "partOfSpeech": "名词"},
+    {"word": "英语", "pronunciation": "yīngyǔ", "meaning": "English language", "partOfSpeech": "名词"},
+    {"word": "数学", "pronunciation": "shùxué", "meaning": "mathematics", "partOfSpeech": "名词"},
+    {"word": "科学", "pronunciation": "kēxué", "meaning": "science", "partOfSpeech": "名词"},
+    {"word": "历史", "pronunciation": "lìshǐ", "meaning": "history", "partOfSpeech": "名词"},
+    {"word": "地理", "pronunciation": "dìlǐ", "meaning": "geography", "partOfSpeech": "名词"},
+    {"word": "体育", "pronunciation": "tǐyù", "meaning": "PE (physical education)", "partOfSpeech": "名词"},
+    {"word": "艺术", "pronunciation": "yìshù", "meaning": "art", "词性": "名词"},
+    {"word": "上课", "pronunciation": "shàngkè", "meaning": "have class/attend class", "partOfSpeech": "动词短语"},
+    {"word": "下课", "pronunciation": "xiàkè", "meaning": "end of class/dismissal time", "partOfSpeech": "动词短语"},
+    {"word": "点", "pronunciation": "diǎn", "meaning": "o'clock", "partOfSpeech": "量词"},
+    {"word": "半", "pronunciation": "bàn", "meaning": "half", "partOfSpeech": "数词"},
+    {"word": "分", "pronunciation": "fēn", "meaning": "minute/minutes", "partOfSpeech": "名词"},
+    {"word": "刻", "pronunciation": "kè", "meaning": "quarter (15 minutes)", "partOfSpeech": "量词"}
+]

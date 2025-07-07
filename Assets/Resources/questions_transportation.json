@@ -1,0 +1,20 @@
+[
+  {
+    "question": "安娜今天想去哪个景点？",
+    "translation": "Anna wants to go to which scenic spot today?",
+    "option": {"A": "外滩", "B": "迪士尼乐园", "C": "南京路", "D": "人民广场"},
+    "answer": "A"
+  },
+  {
+    "question": "去外滩可以坐什么交通工具？",
+    "translation": "What transportation can you take to the Bund?",
+    "option": {"A": "自行车", "B": "地铁或公共汽车", "C": "轮船", "D": "开车"},
+    "answer": "B"
+  },
+  {
+    "question": "上海打车软件的优点是什么？",
+    "translation": "What is an advantage of using a ride-hailing app in Shanghai?",
+    "option": {"A": "慢", "B": "方便", "C": "贵", "D": "便宜"},
+    "answer": "B"
+  }
+]

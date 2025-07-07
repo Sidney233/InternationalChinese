@@ -1,0 +1,22 @@
+[
+  {
+    "character": "王小龙",
+    "line": "你今天有什么课？",
+    "translation": "What lessons do you have today?"
+  },
+  {
+    "character": "安娜",
+    "line": "我八点半有中文课。",
+    "translation": "I have a Chinese class at half past eight."
+  },
+  {
+    "character": "王小龙",
+    "line": "明天你有几节课？",
+    "translation": "How many lessons do you have tomorrow?"
+  },
+  {
+    "character": "安娜",
+    "line": "明天我有六节课。",
+    "translation": "I have six classes tomorrow."
+  }
+]

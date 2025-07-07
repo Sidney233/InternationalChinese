@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "question": "我们可以用______叫出租车。",
+        "pinyin": "wǒ men kě yǐ yòng ______ jiào chū zū chē.",
+        "English": "We can call a taxi using the ride-hailing app.",
+        "answer": "打车软件",
+        "tts_path": "./unity_assets/tts/blank/1.wav"
+    },
+    {
+        "id": 2,
+        "question": "上海的夜景很______。",
+        "pinyin": "shàng hǎi de yè jǐng hěn ____ ?",
+        "English": "The night view in Shanghai is very beautiful.",
+        "answer": "美",
+        "tts_path": "./unity_assets/tts/blank/2.wav"
+    }
+]

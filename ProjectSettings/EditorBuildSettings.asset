@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: df8560f3067986b4f85c514a0b1d27a5
+  - enabled: 1
+    path: Assets/Scenes/Unit.unity
+    guid: e4e9f50383e2983478d2541fee08effb
+  - enabled: 1
+    path: Assets/Scenes/Fill Blank.unity
+    guid: 30867c3331f6888459169cb0cc4d7257
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Write.unity
+    guid: 1bec67ed6de8ecb48925dda7121d6d37
+  - enabled: 1
+    path: Assets/Scenes/Speak.unity
+    guid: d75744374b8723b4da9d176f623aeb75
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: f43bf524507c0e144bc9a314c5aa271a
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: 83d164b5011c2f24a940574838022c15
+  - enabled: 1
+    path: Assets/Scenes/Register_more.unity
+    guid: b81fe0eb3147dbd48ad7f3137142bf31
+  - enabled: 1
+    path: Assets/Scenes/Listen.unity
+    guid: a519068ca4c70f74cbf8d5e14bf0ca66
+  - enabled: 1
+    path: Assets/Scenes/Read.unity
+    guid: 6e63467abba7afb49ad81e00fd449712
+  - enabled: 1
+    path: Assets/Scenes/ChatBot.unity
+    guid: cde28ce233def1d41985ff74428852ae
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: f930a386ab0713248b1d6f3a0b5d9d0f
+  - enabled: 1
+    path: Assets/Scenes/Scene Generation.unity
+    guid: f81352fc3b791bb4d9fb7f2eb3754495
+  - enabled: 1
+    path: Assets/Scenes/Home Travel.unity
+    guid: a022a7ab191256f4ea3c0ba42b078802
+  - enabled: 1
+    path: Assets/Scenes/transportation/Listen_selection 1.unity
+    guid: 97b7a9aab3cafd843beff10caa899e52
+  - enabled: 1
+    path: Assets/Scenes/transportation/Listen 1.unity
+    guid: d600ca3b30112c84e87be10607ee570c
+  - enabled: 1
+    path: Assets/Scenes/transportation/Speak 1.unity
+    guid: 4e2e4bfbb68887e4ebc2145637da4791
+  - enabled: 1
+    path: Assets/Scenes/transportation/Unit 1.unity
+    guid: 86b9b49320117f745aca5b295b001e92
+  - enabled: 1
+    path: Assets/Scenes/transportation/Read 1.unity
+    guid: 56d61365b1ab4d440842b3645f31cdd0
+  - enabled: 1
+    path: Assets/Scenes/transportation/Fill Blank 1.unity
+    guid: 15c947502b5f4d84faaf892803cf5ef1
+  - enabled: 1
+    path: Assets/Scenes/transportation/Selection 1.unity
+    guid: 8ad305b93f695ff4484579c45b28e7ad
+  - enabled: 1
+    path: Assets/Scenes/transportation/Write 1.unity
+    guid: eb217cd9d742f624a96c6ab32d7d56b7
+  - enabled: 1
+    path: Assets/Scenes/Food/Listen Food.unity
+    guid: cae427bc704580449b29388079bf3f86
+  - enabled: 1
+    path: Assets/Scenes/Food/Listen_selection Food.unity
+    guid: f779c464eaa156a498e5d236b029ef1d
+  - enabled: 1
+    path: Assets/Scenes/Food/Unit Food.unity
+    guid: e20326f2a0c2a124bb19f0777dfc39f9
+  - enabled: 1
+    path: Assets/Scenes/Food/Fill Blank Food.unity
+    guid: a3281a61314f1a84eb358515b001e8d4
+  - enabled: 1
+    path: Assets/Scenes/Food/Selection Food.unity
+    guid: 635b878d9d244694dab3de5b95552e8f
+  - enabled: 1
+    path: Assets/Scenes/Food/Read Food.unity
+    guid: 5aa83660a611ef64cbd2e6c8fb2c3d39
+  - enabled: 1
+    path: Assets/Scenes/Food/Write Food.unity
+    guid: 4bc9c2859dcd16948a091b6c4d073327
+  - enabled: 1
+    path: Assets/Scenes/Food/Speak Food.unity
+    guid: 4cd2091138dbd5f4eaa8c42f0e3a51f9
+  - enabled: 1
+    path: Assets/Scenes/Listen_selection.unity
+    guid: 02c951a897294c340af2becb40001cef
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: dc1f1256f8f220d438ff11e79ab0e18d, type: 2}

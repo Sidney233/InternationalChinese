@@ -1,0 +1,20 @@
+[
+    {
+        "question": "中餐", 
+        "pronunciation": "zhōng cān",
+        "option": {"A": "中餐", "B": "甜点", "C": "西餐", "D": "料理"},
+        "answer": "A"
+    },
+    { 
+        "question": "尝", 
+        "pronunciation": "cháng",
+        "option": {"A": "刻", "B": "点", "C": "尝", "D": "好"},
+        "answer": "C"
+    },
+    {
+        "question": "好吃", 
+        "pronunciation": "hào chī",
+        "option": {"A": "好吃", "B": "舒服", "C": "难吃", "D": "烤鸭"},
+        "answer": "A"
+    }
+]

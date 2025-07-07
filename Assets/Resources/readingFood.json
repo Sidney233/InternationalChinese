@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "sentence":"我想尝尝中餐。",
+        "pinyin": "wǒ xiǎng cháng cháng zhōng cān",
+        "English": "I want to try Chinese food.",
+        "tts_path": "./unity_assets/tts/sentence/food_1.wav"
+    },
+    {
+        "id":2,
+        "sentence":"你今天想去哪个餐厅？",
+        "pinyin": "nǐ jīn tiān xiǎng qù něi gè cān tīng",
+        "English": "Which restaurant do you want to go today?",
+        "tts_path": "./unity_assets/tts/sentence/food_2.wav"
+    },
+    {
+        "id":3,
+        "sentence":"那边的好吃的很多。",
+        "pinyin": "nà biān de hǎo chī de hěn duō",
+        "English": "There are lots of delicious foods there.",
+        "tts_path": "./unity_assets/tts/sentence/food_3.wav"
+    }
+]

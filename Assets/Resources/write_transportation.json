@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "chinese_character": "车",
+        "pinyin": "chē",
+        "guide": "./unity_assets/video/16867.mp4",
+        "definition": "car / a vehicle / machine / to shape with a lathe, vehicle on land"
+    },
+    {
+        "id": 2,
+        "chinese_character": "坐",
+        "pinyin": "zuò",
+        "guide": "./unity_assets/video/2385.mp4",
+        "definition": "to sit / to take a seat / to take (a bus, airplane etc.)"
+    },
+    {
+        "id":3,
+        "chinese_character": "站",
+        "pinyin":"zhàn",
+        "guide": "./unity_assets/video/11606.mp4",
+        "definition": "station / to stand / to halt / to stop"
+    }
+]

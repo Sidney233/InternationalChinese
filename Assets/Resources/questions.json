@@ -1,0 +1,32 @@
+[
+  {
+    "question": "安娜在什么时候有中文课？",
+    "translation": "When does Anna have a Chinese class?",
+    "option": {"A": "八点", "B": "九点", "C": "八点半", "D": "七点半"},
+    "answer": "C"
+  },
+  {
+    "question": "明天安娜有多少节课？",
+    "translation": "How many classes does Anna have tomorrow?",
+    "option": {"A": "五节", "B": "六节", "C": "四节", "D": "七节"},
+    "answer": "B"
+  },
+  {
+    "question": "王小龙问安娜什么问题？",
+    "translation": "What question did Wang Xiaolong ask Anna?",
+    "option": {"A": "你喜欢吃什么？", "B": "你今天有什么课？", "C": "你是哪里人？", "D": "你的生日是什么时候？"},
+    "answer": "B"
+  },
+  {
+    "question": "安娜回答说她有几节课？",
+    "translation": "How many classes did Anna say she had?",
+    "option": {"A": "四节", "B": "五节", "C": "六节", "D": "七节"},
+    "answer": "C"
+  },
+  {
+    "question": "安娜的中文课在什么时间？",
+    "translation": "When is Anna's Chinese class?",
+    "option": {"A": "8:30", "B": "9:00", "C": "10:00", "D": "7:30"},
+    "answer": "A"
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "sentence":"你叫什么名字？",
+        "pinyin": "nǐ jiào shénme míngzì",
+        "English": "What's your name?",
+        "tts_path": "./unity_assets/tts/sentence/1.wav"
+    },
+    {
+        "id":2,
+        "sentence":"我姓王，叫王华。",
+        "pinyin": "wǒ xìng wáng, jiào wáng huá",
+        "English": "My surname is Wang, and my name is Wang Hua.",
+        "tts_path": "./unity_assets/tts/sentence/2.wav"
+    },
+    {
+        "id":3,
+        "sentence":"我有一个哥哥。",
+        "pinyin": "wǒ yǒu yī gè gē gē",
+        "English": "I have an older brother.",
+        "tts_path": "./unity_assets/tts/sentence/3.wav"
+    },
+    {
+        "id":4,
+        "sentence":"我爱我的妈妈。",
+        "pinyin": "wǒ ài wǒ de māmā",
+        "English": "I love my mom.",
+        "tts_path": "./unity_assets/tts/sentence/4.wav"
+    },
+    {
+        "id":5,
+        "sentence":"你是哪国人？",
+        "pinyin": "nǐ shì nǎ guó rén",
+        "English": "Where are you from?",
+        "tts_path": "./unity_assets/tts/sentence/5.wav"
+    }
+]

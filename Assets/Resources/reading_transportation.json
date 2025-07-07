@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "sentence":"我想要坐地铁。",
+        "pinyin": "wǒ xiǎng yào zuò dì tiě",
+        "English": "I want to take the subway.",
+        "tts_path": "./unity_assets/tts/sentence/t_1.wav"
+    },
+    {
+        "id":2,
+        "sentence":"怎么开车过去？",
+        "pinyin": "zěn me kāi chē guò qù",
+        "English": "How to drive there?",
+        "tts_path": "./unity_assets/tts/sentence/t_2.wav"
+    },
+    {
+        "id":3,
+        "sentence":"公共汽车可以去哪里坐？",
+        "pinyin": "gōng gòng qì chē kě yǐ qù nǎ lǐ zuò",
+        "English": "Where can I take the bus?",
+        "tts_path": "./unity_assets/tts/sentence/t_3.wav"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "chinese_character": "中",
+        "pinyin": "zhōng",
+        "guide": "./unity_assets/video/46.mp4",
+        "definition": "within / among / in / middle / center / while (doing sth) / during / China / Chinese, hit (the mark)"
+    },
+    {
+        "id": 2,
+        "chinese_character": "好",
+        "pinyin": "hǎo",
+        "guide": "./unity_assets/video/3141.mp4",
+        "definition": "good / well, be fond of"
+    },
+    {
+        "id":3,
+        "chinese_character": "吃",
+        "pinyin":"chī",
+        "guide": "./unity_assets/video/1540.mp4",
+        "definition": "eat / eradicate / destroy / receive, eat, stammer"
+    }
+]

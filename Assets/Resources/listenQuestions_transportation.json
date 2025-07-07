@@ -1,0 +1,23 @@
+[
+    {
+        "question": "坐", 
+        "pronunciation": "zuò",
+        "option": {"A": "坐", "B": "左", "C": "站", "D": "开"},
+        "answer": "A", 
+        "tts_path": "./unity_assets/tts/word/t_l_1.wav"
+    },
+    { 
+        "question": "车", 
+        "pronunciation": "chē",
+        "option": {"A": "东", "B": "点", "C": "车", "D": "里"},
+        "answer": "C",
+        "tts_path": "./unity_assets/tts/word/t_l_2.wav"
+    },
+    {
+        "word": "公共汽车", 
+        "pronunciation": "gōnggòngqìchē",
+        "option": {"A": "交通工具", "B": "电动摩托", "C": "观光缆车", "D": "公共汽车"},
+        "answer": "D",
+        "tts_path": "./unity_assets/tts/word/t_l_3.wav"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "question": "我们可以____烤鸭。",
+        "pinyin": "wǒ men kě yǐ ____kǎo yā.",
+        "English": "We can order roast duck.",
+        "answer": "点菜",
+        "tts_path": "./unity_assets/tts/blank/1.wav"
+    },
+    {
+        "id": 2,
+        "question": "我们可以在家吃____的食物。",
+        "pinyin": "wǒ men kě yǐ zài jiā chī ____de shí wù.",
+        "English": "We could eat the food at home.",
+        "answer": "打包",
+        "tts_path": "./unity_assets/tts/blank/2.wav"
+    }
+]

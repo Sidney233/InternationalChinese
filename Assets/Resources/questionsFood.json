@@ -1,0 +1,20 @@
+[
+  {
+    "question": "你今天想去哪个餐厅？",
+    "translation": "Which restaurant do you want to go today?",
+    "option": {"A": "美食街", "B": "人民广场的饭店", "C": "食堂", "D": "火锅店"},
+    "answer": "B"
+  },
+  {
+    "question": "我们可以点什么菜？",
+    "translation": "What dishes can we order?",
+    "option": {"A": "冰淇淋", "B": "蛋糕烤肉", "C": "米饭", "D": "包子"},
+    "answer": "B"
+  },
+  {
+    "question": "这个餐厅有什么好吃的？",
+    "translation": "What delicious foods does this restaurant have?",
+    "option": {"A": "烤鸭和香肠", "B": "汉堡包", "C": "饺子", "D": "面条"},
+    "answer": "A"
+  }
+]

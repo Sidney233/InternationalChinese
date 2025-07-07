@@ -1,0 +1,32 @@
+[
+    {
+        "question": "刻", 
+        "pronunciation": "kè",
+        "option": {"A": "刻", "B": "点", "C": "半", "D": "文"},
+        "answer": "A"
+    },
+    { 
+        "question": "半", 
+        "pronunciation": "bàn",
+        "option": {"A": "刻", "B": "点", "C": "半", "D": "史"},
+        "answer": "C"
+    },
+    {
+        "question": "分", 
+        "pronunciation": "fēn",
+        "option": {"A": "分", "B": "中", "C": "上", "D": "学"},
+        "answer": "A"
+    },
+    {
+        "word": "中文", 
+        "pronunciation": "zhōngwén",
+        "option": {"A": "英文", "B": "数学", "C": "历史", "D": "中文"},
+        "answer": "D"
+    },
+    {
+        "word": "英语", 
+        "pronunciation": "yīngyǔ",
+        "option": {"A": "韩语", "B": "艺术", "C": "英语", "D": "汉语"},
+        "answer": "C"
+    }
+]
